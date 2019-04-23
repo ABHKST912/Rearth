@@ -1,26 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="rearth" 
-        version="1.0.0" 
-        xmlns="http://www.w3.org/ns/widgets" 
-        xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Reaerth</name>
-    <description>
-        Rearth is an app which will expand your knowledge about waste sorting and recycling.
-    </description>
-    <author email="abhkst912@gmail.com" href="">
-        Busy Bees Team
-    </author>
-    <content src="index.html" />
-    <platform name="android">
-        <icon src="www/res/icon/android/favicon.png">
-    </platform>
-    <access origin="*" />
-    
-    <platform name="android">
-        <allow-intent href="market:*" />
-    </platform>
-    <platform name="ios">
-        <allow-intent href="itms:*" />
-        <allow-intent href="itms-apps:*" />
-    </platform>
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.rearth"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>PhoneGap Example</name>
+
+  <description>
+      Rearth is an app which will expand your knowledge about waste sorting and recycling.
+
+  </description>
+
+  <author href="" email="abhkst912@gmail.com">
+      Busy bees team
+  </author>
+
 </widget>
