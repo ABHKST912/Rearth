@@ -1,0 +1,6 @@
+.navbottom-container {
+    background-color: #01DFA5;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
