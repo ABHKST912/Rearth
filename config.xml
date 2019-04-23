@@ -5,7 +5,7 @@
     versionCode = "10"
     version     = "1.0.0" >
 
-  <name>PhoneGap Example</name>
+  <name>Rearth</name>
 
   <description>
       Rearth is an app which will expand your knowledge about waste sorting and recycling.
