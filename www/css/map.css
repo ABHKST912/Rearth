@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Neucha', cursive;
+  font-size: 16px;
+}
+
+/* .header {
+  background: #ccc;
+} */
+
+.map-menu {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+.map-menu a {
+  color: black;
+  font-size: 1.1rem;
+  font-family: "Neucha", cursive;
+}
+
+.map-search {
+  position: absolute;
+  top: 12%;
+left: 10%;
+  border: none;
+  font-size: 1.2rem;
+  padding: 11px 20px;
+  text-align: center;
+}
+
+.location-blocks {
+    display: flex;
+}
+.location-blocks img {
+    width: 40px;
+}
+.location-blocks .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+.map-text {
+    margin-bottom: 0;
+    font-size: 1.33rem;
+}
