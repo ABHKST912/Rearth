@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{
+    font-size: 250px;
+    color: #ffffff;
+    font-family: 'Neucha', cursive;
+}
+
+img{
+    height: 350px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-content: center ;
+    flex-direction: column;
+    height: 1500px;
+}
+
+.play-game{
+    border-radius: 60px;
+    height: 25%;
+    background: #1A3946;
+}
+
+.explore{
+    border-radius: 60px;
+    height: 25%;
+    background: #06D6A0;
+}
+
+.points{
+    height: 25%;
+    background: yellow;
+}
+
+.settings{
+    height: 25%;
+    background: crimson;
+}
