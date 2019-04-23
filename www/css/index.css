@@ -5,8 +5,10 @@ body{
 }
 
 h1{
-    font-size: 250px;
+    padding: 30px;
+    font-size: 15rem;
     color: #ffffff;
+    text-shadow: 1px 1px 2px black; 
     font-family: 'Neucha', cursive;
 }
 
@@ -36,7 +38,7 @@ img{
 
 .points{
     height: 25%;
-    background: yellow;
+    background: #ffc33e;
 }
 
 .settings{
