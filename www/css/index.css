@@ -13,7 +13,7 @@ h1{
 }
 
 img{
-    height: 350px;
+    max-height: 100%;
 }
 
 .main{
@@ -22,6 +22,10 @@ img{
     align-content: center ;
     flex-direction: column;
     height: 1500px;
+}
+
+.div-img{
+    max-height: 100%;
 }
 
 .play-game{
