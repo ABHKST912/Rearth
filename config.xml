@@ -6,7 +6,7 @@
     version     = "1.0.0" >
 
   <name>Rearth</name>
-
+   <icon src="res/favicon.png" />
   <description>
       Rearth is an app which will expand your knowledge about waste sorting and recycling.
 
