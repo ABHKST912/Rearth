@@ -24,18 +24,28 @@ img{
     height: 1500px;
 }
 
-.div-img{
+.block{
+    display: flex;
+    align-content: center;
+}
+
+.block-text{
+    width: 50%;
+}
+
+.block-img{
     max-height: 100%;
+    max-width: 50%;
 }
 
 .play-game{
-    border-radius: 60px;
+    border-radius: 2em;
     height: 25%;
     background: #1A3946;
 }
 
 .explore{
-    border-radius: 60px;
+    border-radius: 2em;
     height: 25%;
     background: #06D6A0;
 }
