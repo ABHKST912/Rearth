@@ -21,7 +21,8 @@ img{
     justify-content: space-around;
     align-content: center ;
     flex-direction: column;
-    height: 1500px;
+    height: 700px;
+    width: 300px;
 }
 
 .block{
@@ -30,12 +31,12 @@ img{
 }
 
 .block-text{
-    width: 50%;
+    width: 30%;
 }
 
 .block-img{
     max-height: 100%;
-    max-width: 50%;
+    max-width: 70%;
 }
 
 .play-game{
